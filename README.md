@@ -79,7 +79,8 @@ Limpieza, análisis y preparación de datos con Python + SQL.
 
 ### 🔹 Proyectos universitarios  
 (Pronto públicos en este GitHub)  
-- Desarrollo web (Laravel / JS)  
+- Desarrollo web 
+- Desarrollo movil
 - Análisis y transformación de datos  
 - Racket y Prolog  
 - Seguridad informática  
